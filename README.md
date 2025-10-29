@@ -1,9 +1,6 @@
 # 🍅 Tomato — Immutable Work Repository
-<p align="center">
-  <img src="Celo-Sepolia-transaction-0x53ea28af4202024a0e18bbe32d3625ae09367ec93e66aba6086f7d32c6a93763-Blockscout.png" 
-       alt="Celo Sepolia Transaction Screenshot" 
-       width="700px">
-</p>
+
+<img width="1920" height="1852" alt="Transaction_screenshot" src="https://github.com/user-attachments/assets/e7e6958c-63f7-4bbe-82db-5f903c077b0f" />
 
 > **A simple, transparent, and tamper-proof way to record completed work submissions on the blockchain.**
 
